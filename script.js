@@ -14,7 +14,8 @@
 //     console.log("Hello " + name);
 // }
 
-// greet("sohan");
+// greet("subhani");
 // greet("Rakhi");
+
 
                                                                                                                                                                        
